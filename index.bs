@@ -283,7 +283,7 @@ refer to [[WebAuthnAPIGuide]] for an overall tutorial.
 <br><br>
 - [=[RP]=] web application developers, expecially those responsible for [=[RP]=] [=web application=] login flows, account recovery flows,
     user account database content, etc.
-- Web framework developers
+- Web framework developer
 
     - The above two audiences should in particular refer to [[#rp-operations]].
         The introduction to [[#api]] may be helpful, though readers should realize that the [[#api]] section is targeted specifically
